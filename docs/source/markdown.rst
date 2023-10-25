@@ -1,3 +1,3 @@
 [Markdown]
 
-.. _Markdown:<https://github.com/pwlll/zse-4tr-pj-rtd/blob/main/docs/source/mod27_Sprawozdanie-RtD%20Markdown.odt>
+.. _Markdown:'https://github.com/pwlll/zse-4tr-pj-rtd/blob/main/docs/source/mod27_Sprawozdanie-RtD%20Markdown.odt'
