@@ -2,5 +2,5 @@
 Index
 ===========
 
-..toctree::
+.. toctree::
   index
