@@ -1,3 +1,1 @@
-`Markdown`_
-
-.. _Markdown:'https://github.com/pwlll/zse-4tr-pj-rtd/blob/main/docs/source/mod27_Sprawozdanie-RtD%20Markdown.odt'
+`Markdown https://github.com/pwlll/zse-4tr-pj-rtd/blob/main/docs/source/mod27_Sprawozdanie-RtD%20Markdown.odt`
