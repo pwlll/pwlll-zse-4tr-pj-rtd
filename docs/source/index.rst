@@ -4,6 +4,4 @@ Index
 
 .. toctree::
   index
-  markdown
-  reStructuredText
-
+  Skladnia
