@@ -3,5 +3,4 @@ Index
 ===========
 
 .. toctree::
-  index
   Skladnia
